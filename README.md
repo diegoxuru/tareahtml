@@ -2,7 +2,7 @@
 
 CREDITS:
 
-BACKROUND:
+BACKGROUND:
 
 Simon Berger
 
